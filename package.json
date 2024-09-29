@@ -1,0 +1,15 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "Create a weather Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Singh",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
